@@ -19,7 +19,23 @@ const App = () => {
         </Suspense>
         <Routes>
           <Route
-            path={"/" || "/Portfolio_Muthuraj_Chelladurai" || "/initial-merge"}
+            path={"/"}
+            element={
+              <Suspense fallback={<h1> </h1>}>
+                <Home />
+              </Suspense>
+            }
+          />
+          <Route
+            path={"/Portfolio_Muthuraj_Chelladurai"}
+            element={
+              <Suspense fallback={<h1> </h1>}>
+                <Home />
+              </Suspense>
+            }
+          />
+          <Route
+            path={"/Portfolio_Muthuraj_Chelladurai/"}
             element={
               <Suspense fallback={<h1> </h1>}>
                 <Home />
