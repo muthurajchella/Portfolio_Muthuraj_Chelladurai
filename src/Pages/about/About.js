@@ -2,7 +2,7 @@ import React, { Suspense } from "react";
 import Info from "../../components/Info";
 import Status from "../../components/Status";
 import { FaDownload } from "react-icons/fa";
-import CV from "../../assets/muthuraj_resume.pdf";
+import CV from "../../assets/Muthuraj_Chelladurai_CV.pdf";
 import { resume } from "../../data";
 import "./about.css";
 

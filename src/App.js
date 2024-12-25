@@ -19,7 +19,7 @@ const App = () => {
         </Suspense>
         <Routes>
           <Route
-            path="/"
+            path={"/" || "/Portfolio_Muthuraj_Chelladurai" || "/initial-merge"}
             element={
               <Suspense fallback={<h1> </h1>}>
                 <Home />
