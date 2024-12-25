@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_Muthuraj_Chelladurai/static/css/main.6e27297a.css",
-    "main.js": "/Portfolio_Muthuraj_Chelladurai/static/js/main.4eedd14d.js",
+    "main.js": "/Portfolio_Muthuraj_Chelladurai/static/js/main.95d2a680.js",
     "static/css/590.43551dcc.chunk.css": "/Portfolio_Muthuraj_Chelladurai/static/css/590.43551dcc.chunk.css",
     "static/js/590.1e839d09.chunk.js": "/Portfolio_Muthuraj_Chelladurai/static/js/590.1e839d09.chunk.js",
     "static/css/857.994dd79e.chunk.css": "/Portfolio_Muthuraj_Chelladurai/static/css/857.994dd79e.chunk.css",
@@ -33,7 +33,7 @@
     "static/media/toyTeaterGameUsingJavascript.png": "/Portfolio_Muthuraj_Chelladurai/static/media/toyTeaterGameUsingJavascript.19273b334a15fa68e798.png",
     "index.html": "/Portfolio_Muthuraj_Chelladurai/index.html",
     "main.6e27297a.css.map": "/Portfolio_Muthuraj_Chelladurai/static/css/main.6e27297a.css.map",
-    "main.4eedd14d.js.map": "/Portfolio_Muthuraj_Chelladurai/static/js/main.4eedd14d.js.map",
+    "main.95d2a680.js.map": "/Portfolio_Muthuraj_Chelladurai/static/js/main.95d2a680.js.map",
     "590.43551dcc.chunk.css.map": "/Portfolio_Muthuraj_Chelladurai/static/css/590.43551dcc.chunk.css.map",
     "590.1e839d09.chunk.js.map": "/Portfolio_Muthuraj_Chelladurai/static/js/590.1e839d09.chunk.js.map",
     "857.994dd79e.chunk.css.map": "/Portfolio_Muthuraj_Chelladurai/static/css/857.994dd79e.chunk.css.map",
@@ -57,6 +57,6 @@
   },
   "entrypoints": [
     "static/css/main.6e27297a.css",
-    "static/js/main.4eedd14d.js"
+    "static/js/main.95d2a680.js"
   ]
 }
