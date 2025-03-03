@@ -74,7 +74,7 @@ export const personalInfo = [
   {
     id: 3,
     title: "Age : ",
-    description: "27 Years",
+    description: "28 Years",
   },
 
   {
@@ -117,21 +117,21 @@ export const personalInfo = [
 export const status = [
   {
     id: 1,
-    no: "2+",
+    no: "3+",
     title: "Years of <br /> Experience",
   },
 
   {
     id: 2,
-    no: "15+",
+    no: "20+",
     title: "Completed <br /> Projects",
   },
 
-  // {
-  //   id: 3,
-  //   no: "3",
-  //   title: " Awards <br /> Won",
-  // },
+  {
+    id: 3,
+    no: "1",
+    title: "Year of experience as a Quality Supervisor in mechanical engineering",
+  },
 ];
 
 export const resume = [

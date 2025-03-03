@@ -2,7 +2,7 @@ import React from "react";
 import Profile from "../../assets/Home.jpg";
 import { Link } from "react-router-dom";
 import { FaArrowRight } from "react-icons/fa";
-import './home.css';
+import "./home.css";
 
 const Home = () => {
   return (
@@ -12,16 +12,20 @@ const Home = () => {
       <div className="home__content">
         <div className="home__data">
           <h1 className="home__title">
-            <span>I'm Muthuraj ChellaDuari.</span> Front End Developer
+            <span>I'm Muthuraj ChellaDuari.</span> Software Engineer
           </h1>
 
           <p className="home__description">
-            Experienced front-end web developer with 2.5 years of expertise in
-            React.js. Skilled in building dynamic, user-interactive web pages
-            adhering to W3 standards. Currently contributing to Milanity
-            Innovation Pvt Ltd, an IoT-focused company in Chennai, where I
-            develop efficient and responsive web applications for diverse
-            purposes.
+            Front-End Developer with 3+ years of front-end development
+            experience and 1 year of experience as a Quality Supervisor in
+            mechanical engineering, totaling 4+ years of overall work
+            experience. Proficient in React.js, Vite, GraphQL, Redux, and
+            Context API, specializing in scalable and high-performance web
+            applications. Developed a fully automated IoT admin dashboard with
+            real-time data visualization using GraphQL, similar to Facebook’s
+            dashboard. Passionate about full-stack development, currently
+            expanding skills in Node.js and MongoDB to transition into a MERN
+            stack developer.
           </p>
 
           <Link to={"/about"} className="button">
