@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkraj_portfolio=self.webpackChunkraj_portfolio||[]).push([[278],{2278:(e,r,l)=>{l.r(r),l.d(r,{default:()=>o});l(5043);var s=l(579);const o=e=>{let{img:r,title:l,link:o,desc:t}=e;return(0,s.jsx)("a",{href:o,alt:t,target:"_blank",rel:"noreferrer",children:(0,s.jsxs)("div",{className:"portfolio__item",children:[(0,s.jsx)("img",{src:r,alt:"",className:"portfolio__img"}),(0,s.jsx)("div",{className:"portfolio__hover",children:(0,s.jsx)("h3",{className:"portfolio__title",children:l})})]})})}}}]);
+//# sourceMappingURL=278.5e5d87f6.chunk.js.map
