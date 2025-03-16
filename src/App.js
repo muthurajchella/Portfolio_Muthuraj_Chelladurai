@@ -19,11 +19,7 @@ const App = () => {
         </Suspense>
         <Routes>
           <Route
-            path={
-              "/" ||
-              "https://muthurajchella.github.io/" ||
-              "https://muthurajchella.github.io/Portfolio_Muthuraj_Chelladurai/"
-            }
+            path="/*"
             element={
               <Suspense fallback={<h1> </h1>}>
                 <Home />
