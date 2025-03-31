@@ -12,7 +12,7 @@ const Contact = React.lazy(() => import("./Pages/contact/Contact"));
 const App = () => {
   return (
     <React.Fragment>
-      <Router>
+      <Router basename="/Portfolio_Muthuraj_Chelladurai">
         <Suspense fallback={<h1> </h1>}>
           <Navbar />
           <Themes />
